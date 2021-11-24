@@ -2,7 +2,6 @@
 =========
 
 Sample for using karma-browserstack-launcher to run Karma tests (Jasmine framework) on BrowserStack infrastructure.
-One test is failing on purpose as a demo of BrowserStack catching bugs in different browsers.
 
 ### Prerequisites
 Node and yarn
